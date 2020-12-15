@@ -1,0 +1,11 @@
+# Ignored folders
+.allure
+.idea
+target
+shelf
+
+# Ignored files
+*.log
+*.iml
+*.jar
+*.war
